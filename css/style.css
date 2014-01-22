@@ -1,7 +1,15 @@
 .wrapper {
+<<<<<<< HEAD
         width: 50%;
         margin: 0 auto;
 }
 footer{
         text-align: center;
+=======
+	width: 50%;
+	margin: 0 auto;
+}
+footer{
+	text-align: center;
+>>>>>>> 3af3987fa06ae82c234c1df065ac97e9956e003f
 }
