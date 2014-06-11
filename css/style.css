@@ -1,0 +1,8 @@
+a, p, div, li {font-family: "PT Mono", Menlo, "Courier new", monospace;}
+.wrapper {
+	width: 50%;
+	margin: 20% 0 0 10px;
+}
+footer{
+	text-align: center;
+}
